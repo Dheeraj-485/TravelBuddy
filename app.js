@@ -21,7 +21,7 @@ const app = express();
 
 // const MONGO_URL = process.env.ATLASDB_URL;
 const MONGO_URL =
-  "mongodb+srv://ksilent528:wanderlust@cluster0.8mj3e5f.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+  "mongodb+srv://travelbuddy:travel135@cluster0.yuskqbd.mongodb.net/"
 
 main()
   .then(() => {
