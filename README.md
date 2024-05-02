@@ -22,7 +22,7 @@ EJS
 # Other:
 This project also have implemented with MVC Freamwork / REST API'S / AJAX /
 
-![Img1](https://github.com/Dheeraj-485/TravelBuddy/assets/118504120/675c07b6-ce8c-499e-9a02-601528
+![Img1](https://github.com/Dheeraj-485/TravelBuddy/assets/118504120/51780bae-00ca-40e4-beaf-81718c8de08b)
 ![Img2](https://github.com/Dheeraj-485/TravelBuddy/assets/118504120/413c26fb-eb16-43bd-87da-0bee24f86c76)
 30ebd1)
 ![Img3](https://github.com/Dheeraj-485/TravelBuddy/assets/118504120/920d6941-558e-4da9-a7e7-a403f6cca139)
