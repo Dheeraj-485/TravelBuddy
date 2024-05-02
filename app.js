@@ -19,9 +19,8 @@ const User = require("./models/user");
 
 const app = express();
 
-// const MONGO_URL = process.env.ATLASDB_URL;
-const MONGO_URL =
-  "mongodb+srv://travelbuddy:travel135@cluster0.yuskqbd.mongodb.net/"
+ const MONGO_URL = process.env.ATLASDB_URL;
+
 
 main()
   .then(() => {
